@@ -30,4 +30,4 @@ I'm now a college student of Beijing University of Posts and Telecommunications 
 
 My research interests contains Computer Vision, Natural Language Processing and Wireless Communication. I'm glad to communication with each others about the topic above.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
