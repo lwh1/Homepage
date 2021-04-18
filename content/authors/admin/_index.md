@@ -9,12 +9,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: graduation-cap
+  #  icon_pack: fas
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lwh1
+  - icon: weixin
+    icon_pack: fas
+    link: https://www.baidu.com/
 organizations:
   - name: Beijing University of Posts and Telecommunications
     url: https://www.bupt.edu.cn/
