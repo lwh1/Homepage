@@ -5,7 +5,7 @@ headless: true
 weight: 50
 title: Featured Publications
 subtitle: ""
-active: false
+active: true
 content:
   page_type: publication
   count: 0
