@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Wenhai Lai
+role: Ph.D candidate of Computer and Information Engineering
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
