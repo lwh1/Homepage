@@ -1,5 +1,5 @@
 ---
-title: Wenhai Lai
+title: Wenhai LAI
 role: BSc in Information Engineering
 bio: ""
 interests:
@@ -33,7 +33,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Hello! I'm Wenhai Lai.
+Hello! I'm Wenhai LAI.
 
 I'm now a college student of Beijing University of Posts and Telecommunications (BUPT) and majoring in Information Enginerring.
 
