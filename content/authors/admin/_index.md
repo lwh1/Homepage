@@ -9,13 +9,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  # - icon: graduation-cap
-  #  icon_pack: fas
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/lwh1
-
 organizations:
   - name: Beijing University of Posts and Telecommunications
     url: https://www.bupt.edu.cn/
@@ -34,4 +30,4 @@ I'm now a college student of Beijing University of Posts and Telecommunications 
 
 My research interests contains Computer Vision, Natural Language Processing and Wireless Communication. I'm glad to communication with each others about the topic above.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
