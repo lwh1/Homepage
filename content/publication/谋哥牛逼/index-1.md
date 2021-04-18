@@ -2,7 +2,7 @@
 title: 谋哥牛逼
 subtitle: ""
 publication_types:
-  - "0"
+  - "2"
 draft: false
 featured: true
 image:
