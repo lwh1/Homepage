@@ -24,6 +24,9 @@ experience:
     date_start: 2016-01-01
     date_end: 2020-12-31
     description: Taught electronic engineering and researched semiconductor physics.
+  - title: BSc Studeng
+    date_start: 2017-09-01
+    date_end: 2021-07-01
 widget_id: RECENT-POSTS
 headless: true
 weight: 40
