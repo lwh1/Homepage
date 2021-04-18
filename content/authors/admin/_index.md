@@ -33,6 +33,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I'm Wenhai Lai
+Hello! I'm Wenhai Lai.
+
+I'm now a college student of Beijing University of Posts and Telecommunications (BUPT) and majoring in Information Enginerring.
+
+My research interests contains Computer Vision, Natural Language Processing and Wireless Communication. I'm glad to communication with each others about the topic above.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
