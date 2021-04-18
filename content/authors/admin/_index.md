@@ -15,8 +15,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/lwh1
-  - icon: weixin
-    icon_pack: fas
+  - icon: fa-weixin
+    icon_pack: fab
     link: https://www.baidu.com/
 organizations:
   - name: Beijing University of Posts and Telecommunications
