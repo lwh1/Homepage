@@ -1,5 +1,5 @@
 ---
-title: 谋哥牛逼
+title: 谋哥yyds
 subtitle: ""
 publication_types:
   - "2"
