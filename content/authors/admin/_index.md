@@ -21,6 +21,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - icon: wechat
+    icon_pack: fab
+    link: https://www.baidu.com/
 organizations:
   - name: Beijing University of Posts and Telecommunications
     url: https://www.bupt.edu.cn/
