@@ -1,12 +1,10 @@
 ---
 title: Wenhai Lai
 role: Ph.D candidate of Computer and Information Engineering
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless Communication
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,19 +22,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Beijing University of Posts and Telecommunications
+    url: https://www.bupt.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Information Engineering
+      institution: Beijing University of Posts and Telecommunications
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
