@@ -1,6 +1,6 @@
 ---
 title: Wenhai Lai
-role: Ph.D candidate of Computer and Information Engineering
+role: BSc in Information Engineering
 bio: ""
 interests:
   - Artificial Intelligence
