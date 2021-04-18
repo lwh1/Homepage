@@ -14,7 +14,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
