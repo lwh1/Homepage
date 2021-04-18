@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
   - icon: wechat
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.baidu.com/
 organizations:
   - name: Beijing University of Posts and Telecommunications
