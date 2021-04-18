@@ -1,7 +1,7 @@
 ---
 title: Wenhai LAI
 role: BSc in Information Engineering
-avatar_filename: 赖文海_2017210611.jpg
+avatar_filename: wenhai.jpg
 bio: ""
 interests:
   - Artificial Intelligence
