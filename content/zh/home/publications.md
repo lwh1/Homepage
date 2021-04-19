@@ -3,7 +3,7 @@ widget: pages
 widget_id: RECENT-POSTS
 headless: true
 weight: 60
-title: Recent Publications
+title: 最近文章
 subtitle: ""
 content:
   page_type: publication

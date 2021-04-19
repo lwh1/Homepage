@@ -3,7 +3,7 @@ widget: blank
 widget_id: RECENT-POSTS
 headless: true
 weight: 30
-title: News
+title: 新闻
 subtitle: null
 active: true
 design:
