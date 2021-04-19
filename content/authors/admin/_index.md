@@ -4,7 +4,8 @@ role: BSc in Information Engineering
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
+  - Computer Vision
+  - Natural Language Processing
   - Wireless Communication
 social:
   - icon: envelope
@@ -29,6 +30,6 @@ Hello! I'm Wenhai LAI.
 
 I'm now a college student of Beijing University of Posts and Telecommunications (BUPT) and majoring in Information Enginerring.
 
-My research interests contains Computer Vision, Natural Language Processing and Wireless Communication. I'm glad to communication with each others about the topic above.
+My research interests include Computer Vision, Natural Language Processing and Wireless Communication. I'm glad to communication with you about the topic above.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
