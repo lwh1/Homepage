@@ -33,4 +33,4 @@ highlight_name: false
 
 我的研究兴趣包括计算机视觉、自然语言处理以及无线通信，非常欢迎您和我就上述话题展开交流
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/中文简历.pdf" "newtab" >}}个人简历{{< /staticref >}}.
