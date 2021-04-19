@@ -3,7 +3,7 @@ title: 陶艺峰犯病研究
 date: 2021-04-19T07:03:59.562Z
 draft: false
 featured: false
-external_link: www.baidu.com
+external_link: project/陶艺峰犯病研究
 image:
   filename: featured
   focal_point: Smart
