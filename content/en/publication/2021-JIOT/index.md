@@ -8,7 +8,7 @@ authors:
 - Yakun Huang
 - Xiuquan Qiao
 - admin
-- Schahram Dustda *Fellow,IEEE*
+- Schahram Dustda
 - Jianwei Zhang
 - Jiulin Li
 
