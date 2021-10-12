@@ -20,10 +20,10 @@ education:
   courses:
     - course: BSc in Information Engineering
       institution: Beijing University of Posts and Telecommunications
-      year: "2019.09 - 2021.06"
+      year: "2021.06"
     - course: PhD in Computer and Information Engineering
       institution: The Chinese University of HongKong,Shenzhen
-      year: "2021.08 - now"
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
