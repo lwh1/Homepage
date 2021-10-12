@@ -7,7 +7,7 @@ title: "Enabling DNN Acceleration with Data and Model Parallelization over Ubiqu
 authors:
 - Yakun Huang
 - Xiuquan Qiao
-- Wenhai Lai
+- admin
 - Schahram Dustdar
 - Jianwei Zhang
 - Jiulin Li
