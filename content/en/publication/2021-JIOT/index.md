@@ -18,10 +18,10 @@ authors:
 # - "Equal contribution"
 
 date: "2021"
-doi: "10.1109/JIOT.2021.3112715"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "15 September 2021"
+publishDate: "2021"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -66,4 +66,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
