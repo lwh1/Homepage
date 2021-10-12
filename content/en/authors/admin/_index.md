@@ -18,7 +18,7 @@ organizations:
     url: https://www.cuhk.edu.cn/
 education:
   courses:
-  - course: BSc in Information Engineering
+    - course: BSc in Information Engineering
     institution: Beijing University of Posts and Telecommunications
     year: "2019.09 - 2021.06"
   courses:
