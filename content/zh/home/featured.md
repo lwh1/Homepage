@@ -2,7 +2,7 @@
 widget: featured
 widget_id: RECENT-POSTS
 headless: true
-weight: 50
+weight: 40
 title: 代表性文章
 subtitle: ""
 active: true
