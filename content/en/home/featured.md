@@ -2,7 +2,7 @@
 widget: featured
 widget_id: RECENT-POSTS
 headless: true
-weight: 50
+weight: 40
 title: Featured Publications
 subtitle: ""
 active: true

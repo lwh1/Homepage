@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: RECENT-POSTS
 headless: true
-weight: 70
+weight: 60
 title: Projects
 subtitle: ""
 content:
