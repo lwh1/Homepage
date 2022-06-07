@@ -28,11 +28,15 @@ zh:
       - name: 文章
         url: '#publications'
         weight: 30
+      
+      - name: 博客
+        url: '#posts'
+        weight: 40
         
       - name: 项目经历
         url: '#projects'
-        weight: 40
+        weight: 50
       - name: 联系方式
         url: '#contact'
-        weight: 50
+        weight: 60
       
