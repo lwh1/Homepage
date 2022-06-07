@@ -1,6 +1,7 @@
 ---
-title: Writing technical content in Academic
-date: 2019-07-12
+title: CRLB推导
+subtitle: 在本篇博文中，我针对单个参数以及多个参数估计的CRLB进行了推导
+date: 2022-06-07
 math: true
 diagram: true
 highlight: true
