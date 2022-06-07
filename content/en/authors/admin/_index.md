@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:wenhai_lai@163.com
+    link: mailto:wenhailai@link.cuhk.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/lwh1
