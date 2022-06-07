@@ -8,7 +8,7 @@ diagram: true
 highlight: true
 ---
 
-@[toc]
+[toc]
 # Why we need CRLB
 - 假定我们有n个样本数据$(x_1, x_2,...x_n)$，这些数据是独立同分布的，具有概率密度$p(x|\theta)$。其中$\theta$是确定但未知的一个参数(Deterministic but unknown)。
 - 我们希望从样本数据中得到对参数$\theta$的一个估计$\hat{\theta}=T(x_1, x_2,...,x_n)$。
