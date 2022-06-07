@@ -1,6 +1,6 @@
 ---
 title: Wenhai LAI
-role: PhD in Computer and Information Engineering
+role: PhD Student in Computer and Information Engineering
 avatar_filename: avatar.jpg
 bio: ""
 interests:
